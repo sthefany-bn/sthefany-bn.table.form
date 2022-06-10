@@ -1,0 +1,32 @@
+/*css form*/
+form fieldset picture input{
+    height: 7rem;
+    margin-top: 1rem;
+}
+
+
+/*css table*/
+header{
+    height: 3rem;
+}
+
+header h1{
+    text-decoration: underline;
+}
+
+table,
+table tr td, 
+table tr th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+
+main.tabela{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main.tabela div {
+    margin: 2rem;
+}
